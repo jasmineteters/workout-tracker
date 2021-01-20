@@ -30,12 +30,14 @@ NA
 ## Contact
 To view the code for this project visit the github profile below.
 Github Profile: [jasmineteters](github.com/jasmineteters)
+
 For any questions contact us via email.
 Email: [jasmineteters2020@gmail.com](mailto:jasmineteters2020@gmail.com)
 
 ## Live Deployment:
 
 Link to the GitHub Repo: https://github.com/jasmineteters/workout-tracker
+
 Link to the live page: https://jasmine-fitness-tracker.herokuapp.com/
 
 ## Gif of App:
