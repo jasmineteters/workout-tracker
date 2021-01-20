@@ -35,8 +35,8 @@ Email: [jasmineteters2020@gmail.com](mailto:jasmineteters2020@gmail.com)
 
 ## Live Deployment:
 
-Link to the GitHub Repo: https://github.com/jasmineteters/passwordGenerator
-Link to the GitHub live page: https://jasmineteters.github.io/passwordGenerator/
+Link to the GitHub Repo: https://github.com/jasmineteters/workout-tracker
+Link to the live page: https://jasmine-fitness-tracker.herokuapp.com/
 
 ## Gif of App:
 
